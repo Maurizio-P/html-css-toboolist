@@ -5,6 +5,19 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+h5 {
+    margin: 10px 0;
+}
+
+ul {
+    list-style: none;
+    padding-top: 5px;
+}
+
+h3 {
+    margin: 20px 0;
+}
+
 /* Classi */
 
 .headcontainer {
@@ -30,12 +43,16 @@
     padding: 20px 80px 10px;
 }
 
+.section-list {
+    font-weight: bold;
+}
+
 .top-corner-radius {
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
 
-.botton-corner-radius {
+.bottom-corner-radius {
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
 }
@@ -43,7 +60,6 @@
 .button {
     display: inline-block;
     border: 1px solid;
-    padding: 10px;
 }
 
 .big-bt {
@@ -64,4 +80,24 @@
 .grey-bt {
     background-color: white;
     color: lightgrey;
+}
+
+.violet-bt {
+    background-color: violet;
+    color: white;
+}
+
+.green-bt {
+    background-color: green;
+    color: white;
+}
+
+.orange-bt {
+    background-color: orange;
+    color: white;
+}
+
+.red-bt {
+    background-color: red;
+    color: white;
 }
