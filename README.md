@@ -1,0 +1,1 @@
+Avevo fatto nel pomeriggio l'esercizio usando solo i div, ho preferito lasciarlo comunque nel repository facendo un nuovo file index e styles, rinominando i vecchi e facendo nuovamente l'esercizio con la lista
