@@ -5,6 +5,14 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+h2 {
+    margin: 10px 0;
+}
+
+h5 {
+    margin: 10px 0;
+}
+
 /* Classi */
 
 .headcontainer {
@@ -64,4 +72,24 @@
 .grey-bt {
     background-color: white;
     color: lightgrey;
+}
+
+.violet-bt {
+    background-color: violet;
+    color: white;
+}
+
+.green-bt {
+    background-color: green;
+    color: white;
+}
+
+.orange-bt {
+    background-color: orange;
+    color: white;
+}
+
+.red-bt {
+    background-color: red;
+    color: white;
 }
