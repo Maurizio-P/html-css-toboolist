@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+main {
+    background-color: rgb(209, 209, 209);
+}
+
+h3 {
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 6px;
+}
+
+/* Classi */
+
+.headcontainer {
+    /* display: inline-block; */
+    margin: 10px 20px;
+}
+
+.main-title {
+    display: inline-block;
+    line-height: 50px;
+    vertical-align: top;
+}
