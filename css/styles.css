@@ -5,17 +5,17 @@
     font-family: 'Open Sans', sans-serif;
 }
 
-h3 {
-    display: inline-block;
-    border: 1px solid;
-    padding: 10px;
-    border-radius: 10px;
+h2 {
+    margin: 10px 0;
+}
+
+h5 {
+    margin: 10px 0;
 }
 
 /* Classi */
 
 .headcontainer {
-    /* display: inline-block; */
     margin: 10px 20px;
 }
 
@@ -24,8 +24,6 @@ h3 {
     line-height: 50px;
     vertical-align: top;
 }
-
-
 
 .bg-container {
     background-color: rgb(223, 223, 223);
@@ -36,8 +34,29 @@ h3 {
 .container {
     background-color: white;
     width: 80%;
-    margin: auto;
-    padding: 20px;
+    margin: 0 auto 3px;
+    padding: 20px 80px 10px;
+}
+
+.top-corner-radius {
+    border-top-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.button {
+    display: inline-block;
+    border: 1px solid;
+    padding: 10px;
+}
+
+.big-bt {
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.small-bt {
+    border-radius: 50px;
+    padding: 5px 10px;
 }
 
 .blue-button {
